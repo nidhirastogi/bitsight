@@ -1,0 +1,4 @@
+1. Unzipped the data file-> 20161216-sampled-dataset
+2. Captured one of the json piece and gathered the format of the file (used this link: https://jsonformatter.curiousconcept.com/)
+    The captured format gives a view exisiting features.
+3. The scan.io describes this dataset: his dataset is composed of TCP SYN scan on port 443 against the public IPv4 address space and a typical looking TLS handshake that offers Chrome cipher suites. This is our primary scan finding HTTPS sites.
